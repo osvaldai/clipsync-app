@@ -1,6 +1,6 @@
 # Install and activate ClipSync
 
-Downloads and SHA‑256 checksums: <https://osvald-site-44cdb8e24005.herokuapp.com/download>
+Downloads and SHA‑256 checksums: <https://osvald-studio.com/download>
 
 ## 1. Android
 
@@ -48,10 +48,10 @@ If a device does not appear: check that the router does not isolate clients (gue
 
 ## 6. Activate your license
 
-1. Buy a key on the [website](https://osvald-site-44cdb8e24005.herokuapp.com/buy). You pay $19 once in USDC on the Base network; the key `OSV-XXXX-XXXX-XXXX-XXXX` is shown as soon as the payment confirms (usually within a minute). Save it.
+1. Buy a key on the [website](https://osvald-studio.com/buy). You pay $19 once in USDC on the Base network; the key `OSV-XXXX-XXXX-XXXX-XXXX` is shown as soon as the payment confirms (usually within a minute). Save it.
 2. On any device: **Settings → License → Activate**, paste the key. The device registers one of your 5 seats and becomes **Pro**.
 3. Other paired devices receive the license automatically from the activated one (encrypted, over your Wi‑Fi) and register their own seat. If a device was offline, activate it with the same key.
-4. Moving to a new phone or computer: **Settings → License → Deactivate this device** on the old one, or open <https://osvald-site-44cdb8e24005.herokuapp.com/activate>, enter the key and unlink the device there. Then activate the new one.
+4. Moving to a new phone or computer: **Settings → License → Deactivate this device** on the old one, or open <https://osvald-studio.com/activate>, enter the key and unlink the device there. Then activate the new one.
 
 The app checks the license with the server about once a month; it keeps working offline in between.
 

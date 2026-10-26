@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://osvald-site-44cdb8e24005.herokuapp.com/clipsync">Сайт</a> ·
-  <a href="https://osvald-site-44cdb8e24005.herokuapp.com/download">Завантажити</a> ·
-  <a href="https://osvald-site-44cdb8e24005.herokuapp.com/buy">Купити раз — $19</a> ·
+  <a href="https://osvald-studio.com/clipsync">Сайт</a> ·
+  <a href="https://osvald-studio.com/download">Завантажити</a> ·
+  <a href="https://osvald-studio.com/buy">Купити раз — $19</a> ·
   <a href="docs/INSTALL.md">Установка й активація (EN)</a> ·
   <a href="docs/FAQ.md">FAQ (EN)</a> ·
   <a href="README.md">English</a>
@@ -62,7 +62,7 @@
 
 ## Ціна
 
-ClipSync можна спробувати безкоштовно. Один ключ — **$19, оплата один раз** — відкриває всі функції на **всіх ваших пристроях** (до 5) назавжди. Оплата в USDC у мережі Base, без картки й без акаунта. Купити на [сайті](https://osvald-site-44cdb8e24005.herokuapp.com/buy); ключ з’являється одразу після підтвердження платежу.
+ClipSync можна спробувати безкоштовно. Один ключ — **$19, оплата один раз** — відкриває всі функції на **всіх ваших пристроях** (до 5) назавжди. Оплата в USDC у мережі Base, без картки й без акаунта. Купити на [сайті](https://osvald-studio.com/buy); ключ з’являється одразу після підтвердження платежу.
 
 Безкоштовно: текст і посилання з одним спареним пристроєм, спарювання з кодом. 7 днів повного пробного періоду після першого спарювання.
 
@@ -78,7 +78,7 @@ English, Українська, Polski, Deutsch, Español, Français, Português 
 
 - [FAQ](docs/FAQ.md)
 - Помилки й ідеї — у вкладці **Issues** цього репозиторію (без логів з особистими даними).
-- Сторінка підтримки: <https://osvald-site-44cdb8e24005.herokuapp.com/support>
+- Сторінка підтримки: <https://osvald-studio.com/support>
 
 ---
 

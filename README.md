@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://osvald-site-44cdb8e24005.herokuapp.com/clipsync">Website</a> ·
-  <a href="https://osvald-site-44cdb8e24005.herokuapp.com/download">Download</a> ·
-  <a href="https://osvald-site-44cdb8e24005.herokuapp.com/buy">Buy once — $19</a> ·
+  <a href="https://osvald-studio.com/clipsync">Website</a> ·
+  <a href="https://osvald-studio.com/download">Download</a> ·
+  <a href="https://osvald-studio.com/buy">Buy once — $19</a> ·
   <a href="docs/INSTALL.md">Install &amp; activate</a> ·
   <a href="docs/FAQ.md">FAQ</a> ·
   <a href="README.uk.md">Українською</a>
@@ -62,7 +62,7 @@ Same Wi‑Fi is required by design — there is no relay server.
 
 ## Pricing
 
-ClipSync is free to try. One license key — **$19, paid once** — unlocks the full feature set on **all your devices** (up to 5) for as long as you use it. Payment in USDC on the Base network, no card and no account required. Buy on the [website](https://osvald-site-44cdb8e24005.herokuapp.com/buy); the key is shown as soon as the payment confirms.
+ClipSync is free to try. One license key — **$19, paid once** — unlocks the full feature set on **all your devices** (up to 5) for as long as you use it. Payment in USDC on the Base network, no card and no account required. Buy on the [website](https://osvald-studio.com/buy); the key is shown as soon as the payment confirms.
 
 Free tier: clipboard text and links with one paired device, pairing with a code. 7‑day full trial after the first pairing.
 
@@ -78,7 +78,7 @@ English, Українська, Polski, Deutsch, Español, Français, Português 
 
 - [FAQ](docs/FAQ.md)
 - Issues: use the **Issues** tab of this repository for bugs and ideas (no logs with personal data, please).
-- Support page: <https://osvald-site-44cdb8e24005.herokuapp.com/support>
+- Support page: <https://osvald-studio.com/support>
 
 ---
 
